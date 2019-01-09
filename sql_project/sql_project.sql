@@ -1,3 +1,9 @@
+/*The data used for this project is from the "country_club" database. This database
+contains 3 tables:
+    i) the "Bookings" table,
+    ii) the "Facilities" table, and
+    iii) the "Members" table. */
+
 /*Important Note: Answers below have been checked against Springboard's provided solutions and therefore may be influenced by them. Answers were only checked after an initial attempt without assistance.*/
 
 /* Q1: Some of the facilities charge a fee to members, but some do not.
