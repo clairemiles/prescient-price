@@ -14,10 +14,10 @@ I used data from [Inside Airbnb](http://insideairbnb.com/get-the-data.html), an 
 
 ### Project Plan
 This project includes notebooks for all stages in the process: 
-1. [data collection](https://github.com/clairemiles/prescient-price/blob/master/0_data-collection.ipynb)
-1. [data cleaning](https://github.com/clairemiles/prescient-price/blob/master/1_cleaning.ipynb)
-1. [data plotting and prelimiary exploration](https://github.com/clairemiles/prescient-price/blob/master/2_plots.ipynb)
-1. [feature creation and machine learning modeling](https://github.com/clairemiles/prescient-price/blob/master/3_analysis.ipynb)
+1. [Data collection](https://github.com/clairemiles/prescient-price/blob/master/0_data-collection.ipynb)
+1. [Data cleaning](https://github.com/clairemiles/prescient-price/blob/master/1_cleaning.ipynb)
+1. [Data plotting and prelimiary exploration](https://github.com/clairemiles/prescient-price/blob/master/2_plots.ipynb)
+1. [Feature creation and machine learning modeling](https://github.com/clairemiles/prescient-price/blob/master/3_analysis.ipynb)
 
 Using numpy, pandas, matplotlib/seaborn, scikit-learn, and vaderSentiment I crafted a ML-ready dataset from several messy, human-collected csv files, crafted features from non-numeric data, and explored and evaluated several tree-based ML regression models including random forests, gradient boosting, and XGBoost.
 
